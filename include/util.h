@@ -1,6 +1,6 @@
 # util.h
 
-namespace MathFuncs
+namespace MathLib
 {
     class MyMathFuncs
     {
