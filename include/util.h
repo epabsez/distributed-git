@@ -20,5 +20,9 @@ namespace MathLib
                 // Returns a ^ b
         static double Raise(double a, double b);
 
+                // Square root a
+        static double SquareRoot(double a);
+       
+
     };
 } 
